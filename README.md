@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VishalAnalytics
+- 👋 Hi, I’m @Vishal
 - 👀 I’m interested in Machine Learning, AI, Data Analytics and Data Science.
 - 🌱 I’m currently learning Data Analytics and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
